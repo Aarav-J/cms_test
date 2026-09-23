@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "title": "Welcome to the Tech Club",
+    "tagline": "Building the future, one project at a time.",
+    "ctaText": "Get Involved"
+  },
+  "about": {
+    "heading": "Who We Are",
+    "body": "We are a student-run organization passionate about technology, innovation, and collaboration. Whether you're a beginner or a seasoned developer, there's a place for you here."
+  },
+  "announcements": [
+    {
+      "id": "1",
+      "title": "General Meeting — Friday 6PM",
+      "body": "Join us in Room 204 for our weekly general meeting. Pizza provided!"
+    },
+    {
+      "id": "2",
+      "title": "Hackathon Registration Open",
+      "body": "Sign up for our annual 24-hour hackathon. Teams of 2–4, all skill levels welcome."
+    }
+  ],
+  "contact": {
+    "email": "techclub@university.edu",
+    "instagram": "@techclub",
+    "meetingLocation": "Room 204, Engineering Building"
+  }
+}
